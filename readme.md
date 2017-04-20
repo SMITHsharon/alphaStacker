@@ -76,8 +76,12 @@ The output for this piece of the application prints the following pattern:
 git clone https://github.com/SMITHsharon/alphaStacker.git
 cd alpha-stacker
 http-server -p 8080
-This will show in your browser at: http://localhost:8080
 ```
+
+This will show in your browser at: `http://localhost:8080`
+
+You must open the Developer Console to view the JavaScript output (console.log()s).
+
 
 ### Contributor
 [Sharon Smith](https://github.com/SMITHsharon)
